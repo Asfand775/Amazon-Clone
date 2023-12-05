@@ -1,2 +1,2 @@
 # Amazon-Clone
-Using HTML AND CSS for Desktop 
+Using HTML AND CSS For Desktop 
